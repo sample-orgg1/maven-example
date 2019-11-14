@@ -36,8 +36,7 @@ pipeline {
                  -Dsonar.organization=sample-orgg1 \
                  -Dsonar.host.url=https://sonarcloud.io \
                  -Dsonar.login=fc849f7380c469698ba457e70b02dd2c9d815654'
-             }  
-                
+             }    
             }
         }
         
